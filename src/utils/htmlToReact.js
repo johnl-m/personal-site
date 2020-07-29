@@ -23,7 +23,7 @@ export default function(html) {
                     return <ScriptTag key={index} {...node.attribs}/>;
                 }
             } else if (node.type === 'tag' && node.name === 'a') {
-                return <Link {...node.attribs}>{convertChildren(node.children, index)}</Link>
+                return <Link key={index} {...node.attribs}>{convertChildren(node.children, index)}</Link>
             }
         }
     });

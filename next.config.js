@@ -1,5 +1,6 @@
 const path = require('path');
 const sourcebit = require('sourcebit');
+
 const sourcebitConfig = require('./sourcebit.js');
 
 
@@ -7,6 +8,9 @@ sourcebit.fetch(sourcebitConfig);
 
 module.exports = {
     exportTrailingSlash: true,
+    devIndicators: {
+        autoPrerender: false
+    },
     sassOptions: {
         // scss files might import plain css files from the "public" folder:
         // @import "example.css";

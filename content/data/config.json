@@ -1,13 +1,13 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "John Lund-Molfese",
     "path_prefix": "/",
-    "description": "Personal blogging theme for Stackbit",
+    "description": "John Lund-Molfese's personal website",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
-        "profile_img": "images/avatar.png",
+        "title": "John Lund-Molfese",
+        "tagline": "Web Application Developer",
+        "profile_img": "images/squareJohn.jpg",
         "background": "dark",
         "has_nav": true,
         "nav_links": [
@@ -17,59 +17,40 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
+                "label": "Resume",
+                "url": "/resume/",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
+                "label": "Blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
             }
         ],
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "fa-instagram",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/johnl-m",
                 "style": "icon",
                 "icon_class": "fa-github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/jolumo/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
             },
             {
                 "label": "DEV",
-                "url": "https://dev.to/",
+                "url": "https://dev.to/johnlm",
                 "style": "icon",
                 "icon_class": "fa-dev",
                 "new_window": true

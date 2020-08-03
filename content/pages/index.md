@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: 'Hi, I''m John Lund-Molfese.'
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
@@ -16,10 +16,6 @@ sections:
       yourself that people can read on the homepage to get a sense of who you
       are. There also exists a dedicated about page where you can write more
       about yourself for those who are interested.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts

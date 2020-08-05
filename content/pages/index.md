@@ -10,12 +10,12 @@ sections:
       one to three sentences, but can be changed as you prefer.
   - section_id: about
     type: section_content
-    title: About
+    title: Who Am I?
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Language-agnostic full-stack developer emphasising experience in architectural 
+      design and automated testing. I'm happiest when I'm working directly with my 
+      customers to come up with solutions which really meet their needs, taking ambiguous
+      ideas from inception to design and implementation.
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts

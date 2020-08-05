@@ -1,8 +1,10 @@
 ---
 title: Resume
 subtitle: >-
-  Test
+  Browser doesn't render PDFs? Click [here](images/latexResume.pdf).
 layout: page
 ---
 
-**This is a paragraph**.
+<object data="images/latexResume.pdf" type="application/pdf">
+    <embed src="images/latexResume.pdf" type="application/pdf" />
+</object>

@@ -11,10 +11,10 @@ sections:
     type: section_content
     title: Who Am I?
     content: >-
-      Language-agnostic full-stack developer emphasising experience in architectural 
-      design and automated testing. I'm happiest when I'm working directly with my 
-      customers to come up with solutions which really meet their needs, taking ambiguous
-      ideas from inception to design and implementation.
+      Language-agnostic developer emphasising experience in architectural design and
+       automated testing. I enjoy working directly with my end users to come up with
+        solutions which really meet their needs, taking ambiguous ideas from inception
+         to design and implementation.
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts

@@ -165,6 +165,6 @@ public class consumingClass{
 ```
 
 #### Conclusion
-You don't want to use this solution exactly in a production environment because it's insecure, especially if anyone else has access to your server.
+You probably don't want to use this solution exactly in a production environment because it's insecure, especially if anyone else has access to your server. But for use locally, it should be fine, and avoids the possibility of accidentally committing credentials to source control.
 
 Questions? Feedback? Please open a GitHub issue [here](https://github.com/johnl-m/personal-site/issues)

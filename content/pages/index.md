@@ -6,15 +6,14 @@ sections:
     type: section_hero
     title: 'Hi, I''m John Lund-Molfese.'
     content: >-
-      Full-Stack Web Application Developer at State Farm
+      Full-Stack Web Application Developer
   - section_id: about
     type: section_content
     title: Who Am I?
     content: >-
-      Language-agnostic developer emphasising experience in architectural design and
-       automated testing. I enjoy working directly with my end users to come up with
-        solutions which really meet their needs, taking ambiguous ideas from inception
-         to design and implementation.
+        Language-agnostic full-stack developer with an emphasis in architectural design and automated
+        regression testing. I'm happiest when I'm working directly with my customers to come up with
+        solutions which really meet their needs, taking ideas from inception to design and implementation.
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts

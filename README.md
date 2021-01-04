@@ -1,6 +1,6 @@
 # John Lund-Molfese
 
-This is my personal website, generated using [www.stackbit.com](https://www.stackbit.com)
+This is a personal website, generated using [www.stackbit.com](https://www.stackbit.com)
 
 # Developing Site Locally
 

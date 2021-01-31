@@ -6,14 +6,13 @@ sections:
     type: section_hero
     title: 'Hi, I''m John Lund-Molfese.'
     content: >-
-      Full-Stack Web Application Developer
+      Full-Stack Engineer
   - section_id: about
     type: section_content
     title: Who Am I?
     content: >-
-        Language-agnostic full-stack developer with an emphasis in architectural design and automated
-        regression testing. I'm happiest when I'm working directly with my customers to come up with
-        solutions which really meet their needs, taking ideas from inception to design and implementation.
+    Language-agnostic developer emphasizing experience in architectural design and automated testing.
+    I'm happiest when I'm working directly and continuously with my users.
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts

@@ -11,8 +11,8 @@ sections:
     type: section_content
     title: Who Am I?
     content: >-
-    Language-agnostic developer emphasizing experience in architectural design and automated testing.
-    I'm happiest when I'm working directly and continuously with my users.
+        Language-agnostic developer emphasizing experience in architectural design and automated testing.
+        I'm happiest when I'm working directly and continuously with my users.
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts

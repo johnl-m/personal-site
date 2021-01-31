@@ -1,7 +1,7 @@
 ---
 title: Automated Vault Credential Retrieval
 excerpt: >-
-  How to use the Hashicorp Vault API with your Spring Java application without external dependencies
+  How to use the Hashicorp Vault API with your Spring Java application
 date: '2020-10-09'
 layout: post
 ---

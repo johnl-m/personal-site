@@ -6,13 +6,12 @@ sections:
     type: section_hero
     title: 'Hi, I''m John Lund-Molfese.'
     content: >-
-      Full-Stack Engineer
+      Senior Software Engineer
   - section_id: about
     type: section_content
     title: Who Am I?
     content: >-
-        Language-agnostic developer emphasizing experience in architectural design and automated testing.
-        I'm happiest when I'm working directly and continuously with my users.
+        Language-agnostic engineer emphasizing experience in team building, architectural design and automated testing.
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts

@@ -32,41 +32,11 @@ So, you're going to have some meetings. With that in mind, you should:
    1. Most conversations shouldn't take place in direct messages, as they prevent others from providing feedback or finding the information in the future.
 2. **When** a video call is necessary, schedule it ahead of time.
    1. An anticipated interruption is better and more respectful than an unanticipated interruption.
-3. **Never** send a bare meeting link, or initiate a video call without a heads up.
+3. **Never** send a bare meeting link without context, or initiate a video call without a heads up.
    1. Sometimes you really do need an unscheduled, immediate meeting. These situations are very rare, and the dollar
    cost of delaying the meeting should have at least an extra zero in it compared to scheduling the meeting an hour in advance.
    2. If an immediate meeting is necessary, provide context to avoid "ambushing" the person you're inviting. By not 
    providing context, you're implicitly stating that your time is significantly more valuable than theirs. This may or
    may not be true, but even if it is, it's best not to give that impression.
    3. On a distributed team, not everyone works on your schedule. You might not be doing anything at 3PM in your local 
-   time zone, but they might be eating lunch, putting their kids to bed, working heads down on a time-sensitive project, etc 
-
-### Don'ts
-**Don't**
-```text
-Jane Foo: Hey John qq gm https://interruption.biz/aMeetingThatCouldHaveBeenAChatMessage
-John: :(
-```
-
-**Don't**
-```text
-Jack Bar: I have a question about a repo you worked on, free for a call? 
-    https://interruption.biz/aMeetingThatCouldHaveBeenAChatMessage
-John: :(
-```
-
-### Dos
-**Do**
-```text
-Jose Baz: Hey John, I'm getting a JSON key error for clientNamespace when I follow your instructions in the local 
-    environment setup guide. When you get a chance, do you see what's going wrong? Here's what I'm doing: https://gist.github.com/aReproducibleExample
-John: Oops, yeah, I forgot to update that guide after we changed the way we retrieve configuration. I should be able to 
-    fix that by the end of the day, and will update you once that's done.
-```
-
-**Do**
-```text
-Jess Qux: Hey John, the mainframe just crashed and our customer quoting system is down in prod. I'm worried one of our
-    recent changes may have taken away some of the 9s, please join this call as soon as you can: https://interruption.biz/aVeryTimeSensitiveMeeting
-John: Thanks for the context, I'm joining the meeting now,
-```
+   time zone, but they might be eating lunch, putting their kids to bed, working heads down on a time-sensitive project, etc

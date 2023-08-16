@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: Who Am I?
     content: >-
-        Language-agnostic engineer emphasizing experience in team building, architectural design and automated testing.
+        Language-agnostic software engineer emphasizing experience in team building, infrastructure, architecture, and automated testing.
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts

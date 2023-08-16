@@ -7,7 +7,7 @@ layout: post
 ---
 ### Problem
 Jenkins is an open-source self-hosted solution for build automation, used by millions of developers. One thing that Jenkins 
-_doesn't_ seem to support out of the box, is a pipeline debouncer to ensure that if pull request checks are running at a 
+_doesn't_ support out of the box, is a pipeline debouncer to ensure that if pull request checks are running at a 
 given point in time, they are only running for the most recent version of the code.
 
 Some reasons you might want to do this are if you're working on a project with expensive end-to-end tests

@@ -51,4 +51,4 @@ Note that milestones are branch-specific, so you don't have to worry about your 
 else's branch.
 
 ### Conclusion
-Putting it all together, this gets us to our goal of aborting previous CI/CD builds for a particular branch on a new push,
+Putting it all together, this gets us to our goal of aborting previous CI/CD builds for a particular branch on a new push. Depending on the length of your PR check pipelines, and the frequency with which developers push new commits, the savings may be significant! 
